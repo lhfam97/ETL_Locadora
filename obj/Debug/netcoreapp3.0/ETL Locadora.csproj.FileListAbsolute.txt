@@ -1,0 +1,13 @@
+C:\Users\Luique\source\repos\ETL Locadora\ETL Locadora\bin\Debug\netcoreapp3.0\ETL Locadora.exe
+C:\Users\Luique\source\repos\ETL Locadora\ETL Locadora\obj\Debug\netcoreapp3.0\ETL Locadora.csprojAssemblyReference.cache
+C:\Users\Luique\source\repos\ETL Locadora\ETL Locadora\obj\Debug\netcoreapp3.0\ETL Locadora.AssemblyInfoInputs.cache
+C:\Users\Luique\source\repos\ETL Locadora\ETL Locadora\obj\Debug\netcoreapp3.0\ETL Locadora.AssemblyInfo.cs
+C:\Users\Luique\source\repos\ETL Locadora\ETL Locadora\bin\Debug\netcoreapp3.0\ETL Locadora.deps.json
+C:\Users\Luique\source\repos\ETL Locadora\ETL Locadora\bin\Debug\netcoreapp3.0\ETL Locadora.runtimeconfig.json
+C:\Users\Luique\source\repos\ETL Locadora\ETL Locadora\bin\Debug\netcoreapp3.0\ETL Locadora.runtimeconfig.dev.json
+C:\Users\Luique\source\repos\ETL Locadora\ETL Locadora\bin\Debug\netcoreapp3.0\ETL Locadora.dll
+C:\Users\Luique\source\repos\ETL Locadora\ETL Locadora\bin\Debug\netcoreapp3.0\ETL Locadora.pdb
+C:\Users\Luique\source\repos\ETL Locadora\ETL Locadora\bin\Debug\netcoreapp3.0\Oracle.ManagedDataAccess.dll
+C:\Users\Luique\source\repos\ETL Locadora\ETL Locadora\obj\Debug\netcoreapp3.0\ETL Locadora.dll
+C:\Users\Luique\source\repos\ETL Locadora\ETL Locadora\obj\Debug\netcoreapp3.0\ETL Locadora.pdb
+C:\Users\Luique\source\repos\ETL Locadora\ETL Locadora\obj\Debug\netcoreapp3.0\ETL Locadora.csproj.CopyComplete
